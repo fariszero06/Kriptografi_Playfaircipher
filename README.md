@@ -18,10 +18,12 @@ Setalah kalian klik link replitnya maka kalian akan di halaman utama.</p>
 ## Membuat file baru direplit </p>
 1. Pilih menu "CREATE" pada halaman replit. </p>
 ![output](output/replit2.png)
+
 2. Ditampilan template fungsinya untuk memilih bahasa pemrograman untuk membuat filenya. Disini kita membuat programnya menggunakan bahasa pemrograman python, jadi kalian pilih yang python. </p>
 ![output](output/replit3.png)</p>
 Jangan lupa kita kasih nama filenya, disini kita kasih nama filenya "Membuat playfaircipher". Selanjutnya kita pilih "Create Repl". </p>
 ![output](output/replit4.png)</p>
+
 3. Selanjutnya kalian bisa mengisi/mengetik codingannya:
 ```python
 
@@ -125,3 +127,6 @@ while(1):
 </p>
 
 ![output](output/replit5.png)</p>
+
+4. Selanjutnya kalian pilih "Run" untuk menampilkan output programnya. Setelah di "Run" akan muncul output: "ENTER KEY", Maksud dari ENTER KEY yaitu kata kuncinya. Disini saya menggunakan kata kunci "TEKNIK INFORMATIKA", tetapi itu terserah kalian mau menggunakan kata kunci lain. Setelah menginputkan kata kunci lalu kalian klik enter pada keyboard kalian.</p>
+![output](output/replit6.png)</p>
