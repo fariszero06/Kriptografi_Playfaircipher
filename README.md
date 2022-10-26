@@ -20,3 +20,5 @@ Setalah kalian klik link replitnya maka kalian akan di halaman utama.</p>
 ![output](output/replit2.png)
 2. Ditampilan template fungsinya untuk memilih bahasa pemrograman untuk membuat filenya. Disini kita membuat programnya menggunakan bahasa pemrograman python, jadi kalian pilih yang python. </p>
 ![output](output/replit3.png)
+Jangan lupa kita kasih nama filenya, disini kita kasih nama filenya "Membuat playfaircipher". Selanjutnya kita pilih "Create Repl". </p>
+![output](output/replit4.png)</p>
