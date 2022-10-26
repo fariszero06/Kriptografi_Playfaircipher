@@ -148,4 +148,9 @@ while(1):
  7. Setelah kalian klik enter, maka akan muncul output CHIPER TEXT. </p>
  ![output](output/replit9.png)</p>
 
+ Sampai disini tutorial cara membuat program playfair cipher menggunakan bahasa pemrograman python di replit. Untuk kalian yang ingin melihat program replit saya, kalian bisa buka link replit saya. </p>
+ # lINK REPLIT </p>
+ https://replit.com/join/sqpzglmafl-farissyahluthfi
+ 
+
 
