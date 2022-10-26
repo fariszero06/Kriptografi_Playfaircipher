@@ -132,9 +132,9 @@ while(1):
 ![output](output/replit6.png)</p>
 
 5. Setelah kalian klik enter maka akan muncul outputnya: </p>
-1. Encryption </p>
-2. Descryption </p>
-3. EXIT </p>
+ 1.Encryption </p>
+ 2.Descryption </p>
+ 3.EXIT </p>
  Terdapat 3 menu pada outputnya. Kalian pilih menunya sesuai dengan kebutuhan. Disini saya akan menginputkan Encryption jadi saya pilih menu "1. Encryption".</p>
  Kalian cukup mengetikan nomernya saja, Contoh "1". Setelah itu kalian klik tombol pada keyboard kalian. </p>
  ![output](output/replit7.png)</p>
