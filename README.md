@@ -145,3 +145,7 @@ while(1):
   Setelah itu kalian klik tombol pada keyboard kalian. </p>
  ![output](output/replit8.png)</p>
 
+ 7. Setelah kalian klik enter, maka akan muncul output CHIPER TEXT. </p>
+ ![output](output/replit9.png)</p>
+
+
