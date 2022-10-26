@@ -151,7 +151,7 @@ while(1):
  Sampai disini tutorial cara membuat program playfair cipher menggunakan bahasa pemrograman python di replit. Untuk kalian yang ingin melihat program replit saya, kalian bisa buka link replit saya. </p>
  # LINK REPLIT </p>
  https://replit.com/join/sqpzglmafl-farissyahluthfi </p>
-![output](output/terimakasih.png)</p>
+![output](output/terimakasih.jpeg)</p>
 
 
 
