@@ -8,11 +8,11 @@
 
 ## Membuat program Playfair cipher
 # PROGRAM program Playfair cipher
-Berikut langkah-langkah membuat program playfair cipher menggunakan bahasa pemrograman python:
+Berikut langkah-langkah membuat program playfair cipher menggunakan bahasa pemrograman python:</p>
 ## Membuat program di replit
-Saya membuat program ini dengan website replit. Kalian bisa buka replinya di: https://replit.com.
-Setalah kalian klik link replitnya maka kalian akan di halaman utama.
-# Halaman utama replit
+Saya membuat program ini dengan website replit. Kalian bisa buka replinya di: https://replit.com.</p>
+Setalah kalian klik link replitnya maka kalian akan di halaman utama.</p>
+# Halaman utama replit </p>
 ![output](output/replit1.png)
 
 ## Membuat file baru direplit </p>
