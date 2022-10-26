@@ -131,10 +131,17 @@ while(1):
 4. Selanjutnya kalian pilih "Run" untuk menampilkan output programnya. Setelah di "Run" akan muncul output: "ENTER KEY", Maksud dari ENTER KEY yaitu kata kuncinya. Disini saya menggunakan kata kunci "TEKNIK INFORMATIKA", tetapi itu terserah kalian mau menggunakan kata kunci lain. Setelah menginputkan kata kunci lalu kalian klik enter pada keyboard kalian.</p>
 ![output](output/replit6.png)</p>
 
-5. Setelah kalian klik enter maka akan muncul outputnya: </p>
+5. Setelah kalian klik enter, maka akan muncul outputnya: </p>
  1.Encryption </p>
  2.Descryption </p>
  3.EXIT </p>
  Terdapat 3 menu pada outputnya. Kalian pilih menunya sesuai dengan kebutuhan. Disini saya akan menginputkan Encryption jadi saya pilih menu "1. Encryption".</p>
  Kalian cukup mengetikan nomernya saja, Contoh "1". Setelah itu kalian klik tombol pada keyboard kalian. </p>
  ![output](output/replit7.png)</p>
+
+ 6. Setelah kalian klik enter, maka akan muncul outputnya: </p>
+  " ENTER MSG:" </P>
+  Fungsi dari output tersebut yaitu untuk menginputkan enkripsi Playfair Cihper pada plaintext. Disini saya menginputkan plaintextnya yaitu: "GOOD BROOM SWEEP CLEAN REDWOOD NATIONAL STATE PARK JUNK FOOD AND HEALTH PROBLEMS". Untuk kalian bebas mau menginputkan plaintextnya sesuai dengan kebutuhan. </p>
+  Setelah itu kalian klik tombol pada keyboard kalian. </p>
+ ![output](output/replit8.png)</p>
+
