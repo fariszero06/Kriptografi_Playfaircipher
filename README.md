@@ -6,6 +6,8 @@
 | NIM     | 312010034       |
 | Kelas   | TI.20.A.1        |
 
+![output](output/faris.jpg)</p>
+
 ## Membuat program Playfair cipher
 # PROGRAM program Playfair cipher
 Berikut langkah-langkah membuat program playfair cipher menggunakan bahasa pemrograman python:</p>
